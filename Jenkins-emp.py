@@ -1,8 +1,8 @@
-emp_name=snehalata
+emp_name="snehalata"
 emp_age=26
 emp_salary=25000
 emp_id=1001
-emp_add=hubli
+emp_add="hubli"
 
 print("Employee Name:",emp_name)
 print("Employee Age:",emp_age)
